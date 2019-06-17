@@ -1,0 +1,1 @@
+Cuda == 10.0Pytorch == 1.1Matplolib
